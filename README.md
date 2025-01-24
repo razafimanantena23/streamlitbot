@@ -32,7 +32,7 @@ cd streamlitbot
 2. Créez un environnement virtuel Python et activez-le :
  ```
  python -m venv stenv
- venv\Scripts\activate
+ source stenv\Scripts\activate
  ```
 
 3. Installez les libraries nécessaires:
