@@ -1,5 +1,7 @@
 # streamlitbot
+
 ## Groupe :
-Razafimanantena Iriantsoa
-Delage Julia
+
+Razafimanantena Iriantsoa  
+Delage Julia  
 Hachi Yousra
